@@ -1,6 +1,6 @@
 {
   "name": "@scola/websocket-filter-json",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "JSON filter for WebSockets",
   "repository": {
     "type": "git",
